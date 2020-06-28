@@ -36,8 +36,11 @@ a {
 
     justify-content: center;
     align-items: center;
+   
 }
-
+.details ul{
+    padding: 3rem;
+}
 .box {
     background: url(background.jpg) ;
     background-attachment:fixed ;
@@ -107,6 +110,7 @@ table {
 
 td,
 tr {
+    
     border-bottom: 1px solid rgb(172, 155, 99);
     border-right: 1px solid rgb(172, 155, 99);
 }
